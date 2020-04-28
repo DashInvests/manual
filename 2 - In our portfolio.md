@@ -9,8 +9,8 @@ The Dash Investment Foundation's portfolio consists of two main types:
 
 **Current Reserves status**
 
-|Investment type | amount | Percentage
-|:--------|:----------||:----------|
+|Investment type | amount | Percentage |
+|:--------|:----------|:----------|:----------|
 
 
 **Private Equity Investments**

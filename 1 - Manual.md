@@ -1,4 +1,4 @@
-Bloomberg Beta Operating Manual
+Dash Investment Foundation Operating Manual
 ================
 
 
@@ -6,8 +6,8 @@ Bloomberg Beta Operating Manual
 ## Contents
 
 * [Our creed](#our-creed)
-* [Our investor, Bloomberg L.P.](#our-investor-bloomberg-lp)
-* [What we believe about the future of work](#what-we-believe-about-the-future-of-work)
+* [Our investor, The DASH DAO Treasury](#the-dash-dao-treasury)
+* [What we believe about the future of cryptocurrency](#what-we-believe-about-the-future-of-cryptocurrency)
 * [What we look for in a startup](#what-we-look-for-in-a-startup)
 * [The deal terms](#the-deal-terms)
 * [Our “products,” or, models for how we work with founders](#our-products-or-how-we-work-with-founders)
@@ -16,59 +16,27 @@ Bloomberg Beta Operating Manual
 
 ## Our creed
 
-We believe work must be more productive, fulfilling, and inclusive. 
+We are a team who passionately believe Dash and blockchain technology as a whole will drive global economic and social change. Our unique model enables us to deploy the Dash Network's resources to build the Dash and blockchain ecosystem over the long term. Within the next several years, we envision blockchains and digital currencies, like Dash, will grow to have an established, responsibly managed, and regulated role in the global economy, as well as disintermediating a myriad of industries in the process.
 
-Our waking hours must engage the best in us and provide for our needs and wants -- and the world we live in too often fails to offer that.
+## Our investor, The DASH DAO Treasury
 
-We believe technology startups play an essential role in delivering a better future. We can speed the arrival of that future by investing in the best startups that share these intentions.
+The Dash DAO Treasury is our sole source of funds.
 
-## Our investor, Bloomberg L.P.
+The Dash DAO is a decentralized autonomous organization. This means that it is a group that functions irrespective of outside control and has no centralized form of decision making. The Dash DAO’s structure allows anyone to participate and make decisions, following a set of rules and structure.
 
-Bloomberg L.P. is our sole investor.
+The Dash DAO is governed by Masternodes, stakeholders who have invested 1,000 Dash. In addition to running the coin’s second-tier functions such as InstantSend and PrivateSend, masternodes also vote to fund proposals with Dash’s treasury. Anyone can submit a proposal to the masternodes, and the proposal may be funded if it gets enough Masternode votes.
 
-We appreciate many things about our investor: Bloomberg is a different kind of company. Bloomberg is a pioneer -- it created one of the original SaaS businesses, the first professional social network, and invented many practices that are now widely adopted by startups. We hope startups will be inspired by Bloomberg’s example, as we are.
+As a project of the Dash DAO, The Dash Investment Foundation is ultimately responsible to the Dash masternode network. This means our “boss” is everyone who owns some Dash and helps run the network. We have to provide value to the network, and our track record at the Dash Investment Foundation will determine our success in requesting funds for investment purposes in the future. If we do a good job and invest capital wisely, in Founders who grow the Dash ecosystem, then the Network as a whole, including every Dash holder stands to gain. 
 
-Bloomberg knows and respects technology and technology companies, is set up to be independent-minded, and builds toward long-term value. Bloomberg was created three decades ago on a then-controversial idea — that information in financial markets should be more widely available. Bloomberg has reached global scale and influence, with more than 15,000 employees in almost 200 locations — and yet it is still a private company, held by its founders.
+## What We Believe About the Future of cryptocurrency
 
-Why did Bloomberg L.P. create Bloomberg Beta? Bloomberg wants a window into the world of startups to understand meaningful trends early, and know founders and companies long before it becomes obvious that they will be significant. To do this, Bloomberg wants a way to support founders and collaborate with them that doesn’t involve an ordinary commercial relationship. (Many startups are not ready to partner with Bloomberg — or any established, larger company — until they’ve grown, settled on a direction, and decided to make a partnership a priority. That can take as long as a few years after the company is founded.) 
+To know how our fund works, it helps to know the views we bring into every meeting, every email we send, every thought about a startup. We've worked to articulate some of these beliefs -- both those writ large about the economy as a whole and the nature of how business will operate in the future. Here are some of our views:
 
-Bloomberg L.P. invested in Bloomberg Beta to open that window to startups, and set up a structure that is rare for a corporate-sponsored firm — a true fund that invests for financial return, not an “operating division.” Bloomberg knows that great founders want investors whose interests are fully aligned with their own.
-
-So Bloomberg Beta is set up to choose its own investments, and back companies solely on their merits and financial potential, regardless of whether they have (or intend to have) a business relationship with Bloomberg. We do focus exclusively on areas that are of relevance to Bloomberg -- we wouldn’t invest in a videogame, or a consumer e-commerce site for example. One way to think of our focus: we look at the future of work.
-
-We believe we can take the Bloomberg ethos and apply it to how we work with founders: putting our customers (founders!) first, developing deep expertise in our domain (the future of work), and convening different spheres (from every walk of life) to bring new experiences to our customers.
-
-Ultimately, Bloomberg L.P.’s founders have succeeded at doing what we hope to help other companies do — create something extraordinary.
-
-## What We Believe About the Future of Work
-To know how our fund works, it helps to know the views we bring into every meeting, every email we send, every thought about a startup. We've worked to articulate some of these beliefs -- both those writ large about the economy as a whole and the nature of how business will operate in the future.
-
-#### Work as the Soil of New Technology
-Our personal lives are now guided by technology -- voice-recognizing kitchen assistants, cloud-based email, self-parking cars, instant delivery of goods and services -- more advanced than what we use at work. In the last 20 years, unlike much of modern economic history, technology often arrived in peoples' personal lives before it reached industry. 
-
-We believe that work will catch up, and we'll return to the historical norm, where technology arrives at work before it arrives at home. Work -- especially knowledge work -- will be the soil in which many of the most exciting new technologies, especially [many](https://textio.com/) [kinds](https://digitalgenius.com/) [of](https://gradescope.com/) [machine](http://www.diffbot.com/) [intelligence](https://www.gridspace.com/), will find their most interesting applications. Think about all the industries waiting for a modern approach.
-
-#### Accelerating Pace of Technological Change
-We believe technology's pace, while accelerating, will affect us in a more profound way: changes, when they happen, will be far more sudden and jarring. The transition from a human society of hunters and gatherers to an agrarian one took about 3,000 years; the transition from agriculture to industry took roughly 300; industry to services took about 30. Whatever comes next will happen during the span of the careers of people working today. Now, an entire industry or category-leading company can fall off a cliff. In 1958, if a company cracked the S&P 500, it could expect to stay for 61 years -- today, the expectation is [only 18 years](https://www.highly.co/hl/573f63e821341a003c00002c).
-
-#### The Barbell Effect
-We believe some startups (and some established companies, mostly the ones with respect for technology as a first-class citizen) will harness the chaos. They will replace entire ways of doing business -- mission-critical [communication systems](https://slack.com/), [cultures](https://bonus.ly/), business models, leadership, and many long-treasured assumptions. [Some](https://layer.com/) [will](https://www.dominodatalab.com/) [supply](https://www.pathgather.com/) [technology](https://www.prosperworks.com/) to other companies, while some will enter the fray as [direct](https://www.flexport.com/) [competitors](https://angel.co/) themselves, built differently from the ground up.
-
-As the dust settles, industry winners will eat more of their industry's total pie, and the middle will wink out of existence. Big companies will get even bigger, and small companies will be able to make a good living for themselves, their owners, and their employees at ever-smaller sizes.
-
-#### Working Like Developers
-The human impact of these changes will be enormous. For people working, we believe more of their work will look like that of software developers (automating away tasks and harnessing the [flexible](https://arimo.com) [power](http://graphistry.com/) of computers to get [work](https://alation.com/) done), and of securities traders (acting on [quantitative](https://orbitalinsight.com/) [data](http://txn.com/) all day long). We believe much individual work will be done in collaboration with software that makes its own choices. As a result, many people will suffer the [maker vs. manager](http://www.paulgraham.com/makersschedule.html) dilemma that today afflicts mostly software engineers. These talents will [bring](https://howdy.ai/) [their](https://www.buddybuild.com/) [own](https://influxdata.com/) [tools](https://www.scalyr.com/) (more than just their devices) to work, insisting on the [software](https://virgilsecurity.com/) and [practices](https://launchdarkly.com/) that make them most productive.
-
-#### The New Company Wo/man
-Careers will look less like a straight line, and more like a [portfolio](https://www.kaggle.com/competitions) of [activities](https://gigster.com/), with people judged on their work and their [capacities](https://www.codecademy.com/) as opposed to their past institutional affiliations (whether educational or professional). In some cases, people will decouple income from work, and integrate their lives and their work in ways considered career limiting today. Their personal, economic, social, geographic, and demographic backgrounds will also be much more diverse than the most recognized talents of today.
-
-#### The Importance of the Individual
-Those changes in how people work mean the era of the [superhero](https://www.masterclass.com/) individual talent is only beginning. An individual person at work will become even more [productive](https://askwonder.com), and soon we will see a [one-person billion-dollar](http://www.businessinsider.com/is-a-one-man-billion-dollar-startup-on-the-horizon-2015-5) company. Those individuals will be the ones to create new industries and topple old ones. They will need relatively little capital (financial or otherwise) to reach new heights. They are the ones we want to [find early](http://www.nytimes.com/2015/07/02/upshot/the-next-mark-zuckerberg-is-not-who-you-might-think.html?_r=0), support with trust as well as dollars, and cheer as they hit escape velocities.
-
++
 
 ## What we look for in a startup
 
-We recognize that seeing early signs of an outlier is hard, and nobody’s cracked how to do it reliably. What we want is a reason to tell ourselves that a startup has a chance to be extraordinary. There are a few areas where we search for signs: certain qualities of a founding team, an early product, areas where we think we can be helpful, and the right moment in a company’s life.  Here is a [complete list](https://github.com/Bloomberg-Beta/Manual/blob/master/3%20-%20Criteria%20for%20investing.md) of the questions we ask ourselves when evaluating startups. 
+We recognize that spotting the early signs of a world-changing idea/product/solution is hard, and nobody’s cracked how to do it reliably. What we want is a reason to tell ourselves that a startup has a chance to be extraordinary. There are a few areas where we search for signs: certain qualities of a founding team, an early product, areas where we think we can be helpful, and the right moment in a company’s life.  Here is a [complete list](https://github.com/DashInvests/manual/blob/master/3%20-%20Criteria%20for%20investing.md) of the questions we ask ourselves when evaluating startups. 
 
 ### Founders
 
@@ -90,26 +58,20 @@ We are committed to [making the startup world welcoming](https://www.inclusionin
 
 We focus our proactive sourcing outreach on seeking out founders from underrepresented communities. We define diversity broadly, including inherent and acquired forms of diversity like gender, race, ethnicity, sexual orientation, age, socioeconomic class, geography, nationality, education, and others.
 
-We are proud of the diversity of our team (e.g., our partnership is 50-50 female-male, and our team is more than half women). We believe groupthink is dangerous in venture capital, and that different perspectives demand different backgrounds. A diverse and inclusive team also just makes for a better experience for us.
+We believe groupthink is dangerous in venture capital, and that different perspectives demand different backgrounds. A diverse and inclusive team also just makes for a better experience for us.
 
-That said, we are still disappointed in our performance backing enough founders from underrepresented backgrounds. For example, only 10% of the CEOs we have backed are women and only 25% of founding teams we have backed in the last two years include a female founder. We would like to accurately track other forms of diversity, though we avoid asking our founders to submit any mandatory data to us, so this is difficult. (We struggled with whether to set a goal for future portfolio composition: on the one hand, we want the goal to be something we can control and achieve, and on the other hand, any goal less than 50% feels inadequate and the only goal that matters is the end of our pipeline, backed companies.)
-
-We believe progress requires an accumulation of many small decisions over years – [trust takes time](http://also.roybahat.com/post/91847335194/the-trust-thing). That said, we commit to act now. Specifically:
-+ Our most significant effort to reach new founders is our Future Founders community, where we use data to predict who will start a company. [Our group of Future Founders is much more diverse](https://www.nytimes.com/2015/07/02/upshot/the-next-mark-zuckerberg-is-not-who-you-might-think.html?_r=0) than the current population of venture-backed founders (the group is, for example, 28% female, though of course we want to get it to 50%).
-+ As part of our formal criteria for picking investments we want to make, [we only invest in founders we believe are capable of creating a diverse company and an inclusive culture.](https://github.com/Bloomberg-Beta/Manual/blob/master/3%20-%20Criteria%20for%20investing.md#founders-and-team-2) If a startup we back fails to create a diverse and inclusive culture, we would feel regret regardless of how well the company performed financially.
-+ We host open "office hours" online -- only for founders who come from an underrepresented background. Any Friday from 1-2pm PT, you can DM [the head of our fund](http://twitter.com/roybahat) on Twitter and we’ll happily arrange to talk with you by phone or chat.
-+ We nearly doubled the number of companies with female founders who we actively consider for investment each month (from 5 to 9 per month), though we'd like to increase that to half of the companies we consider, currently at 30%. (By “active consideration” we mean the stage in our pipeline just before we make an offer -- where we meet, usually more than once, and begin to do some diligence.)
+We believe progress requires an accumulation of many small decisions over years, and we understand that trust takes time. That said, we commit to act now. Specifically:
++ Our most significant effort to reach new founders is direct from the Dash community, which is about as diverse a community as could be imagined. The Dash community is one of the longest standing in Cryptocurrency and it's truly global.
++ As part of our formal criteria for picking investments we want to make, [we only invest in founders we believe are capable of creating a diverse company and an inclusive culture.](https://github.com/DashInvests/manual/blob/master/3%20-%20Criteria%20for%20investing.md#founders-and-team-2) If a startup we back fails to create a diverse and inclusive culture, we would feel regret regardless of how well the company performed financially.
++ All members of the DIF Team are active Dash community members and are usually available on community channels, social media such as  Twitter & LinkedIn, and we endeavour to engage as much as possible and we’ll happily arrange to talk with you by phone or chat if you have anything you wish to discuss with the team.
 + When invited to speak at an industry event, we ask whether there is someone from an underrepresented community speaking alongside us (e.g., on a panel).
-+ When we host our own events, we examine our invitation lists for diversity. (See, for example, our [yearlong commission on the effect of technology on the future of work](https://shiftcommission.work/findings-of-shift-the-commission-on-work-workers-and-technology-a071bc169df0).)
-+ We are hosting an annual "[Turpentine Talk](https://www.highly.co/hl/56e6f2323533356aeb5a0000)" (our roughly-monthly founder-to-founder tactical learning events for our portfolio) on the subject of building a diverse and inclusive team.
-+ We were inaugural members of [theBoardlist](https://theboardlist.com/our-community), which helps companies find female board members.
++ When we host our own events, we examine our invitation lists for diversity.
 + We are participating in [#MovingForward](https://wearemovingforward.github.io), joining other VC’s to commit to foster a diverse, inclusive, and harassment-free workplace.
-+ We sponsored a scholarship at [Opportunity Hub](https://opportunityhub.co) to send a student from an underrepresented background to SXSW.
-+ We will update the performance metrics we’ve published here (e.g., on the gender composition of our portfolio CEOs) at least annually.
++ In future we will update the performance metrics collect on this subject and publish them here (e.g., on the gender composition of our portfolio CEOs) at least annually.
 
-We believe we need to hold ourselves accountable. As one measure, if a founder ever has an issue with our fund or our team, the founder can make a report to a Bloomberg representative, Drew Gulley -- drew.gulley@bloombergbeta.com. We are accountable to our source of capital, and we follow [Bloomberg's policies](https://data.bloomberglp.com/company/sites/39/2018/04/2017-Appendix.pdf) -- which cover our interactions with customers (i.e., founders).
+We believe we need to hold ourselves accountable. As one measure, if a founder ever has an issue with our fund or our team, the founder can make a report to the independant Dash DAO Trust board which is an independant entity set up to represent the Dash network legally -- they can be contacted at trustprotectors@dash.org. We are accountable to our source of capital, and we will treat any issues raised with the consideration they deserve.
 
-We believe a community of companies is stronger the more different viewpoints come to the table, and intend to actively participate in creating a more inclusive and diverse technology industry.
+We believe a community of companies is stronger the more different viewpoints come to the table, and intend to actively participate in creating a more inclusive and diverse cryptocurrency industry.
 
 ### Product and market
 
@@ -126,13 +88,13 @@ If a product is launched, we care about how well it is doing -- the famous “tr
 
 ### Stage
 
-We strongly prefer to be the first money into a company, and to invest as early in the startup's life as possible. If a startup incorporates itself to take money from us, that's great. Should you call us if you have yet to even start a company? [YES](https://github.com/Bloomberg-Beta/Manual/blob/master/1%20-%20Manual.md#beacon).
+We strongly prefer to be the first money into a company, and to invest as early in the startup's life as possible. If a startup incorporates itself to take money from us, that's great. Should you call us if you have yet to even start a company? [YES](https://github.com/DashInvests/manual/blob/master/1%20-%20Manual.md#beacon).
 
 This isn’t so much a rational investment calculation (arguably there is less competition to write bigger, later checks) -- but it’s a matter of our style. An early investment is less of a transaction and more of a relationship. We do make exceptions for certain reasons (e.g., a founder or company we just couldn’t resist).
 
 “First money in” doesn’t necessarily mean lead investor -- sometimes we are the only investors, sometimes one of many. Sometimes the founder sets the terms, sometimes another investor does, sometimes we do. We are indifferent on this. When we're willing to invest, we're willing to set the terms; whether other investors follow depends.
 
-We are more than happy to invest in companies that might take a very long time to prove they are on to something -- our investor, Bloomberg, has a decades-long view and is willing to build for the long-term. We do not have a fixed time horizon to expect our companies to return capital. In fact, we prefer companies who are building for permanence.
+We are more than happy to invest in companies that might take a very long time to prove they are on to something -- our investor, the Dash DAO, has a decades-long view and is willing to build for the long-term. We do not have a fixed time horizon to expect our companies to return capital. In fact, we prefer companies who are building for permanence.
 
 ### Geography
 

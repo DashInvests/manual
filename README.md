@@ -5,7 +5,7 @@ The Dash Investment Foundation was incorporated on March 21st as a Cayman Island
 Dash is now the first cryptocurrency network with a proposal system capable of investing in its own ecosystem. No longer must all distributions from the proposal system be grants. The foundation creates a bridge between the network protocol and the legacy financial and legal systems. This opens new possibilities for entrepreneurs and the Dash network to partner and mutually benefit from the funding available through the Dash network via Dash Investment Foundation. Importantly, this capability has arrived in time to benefit developers looking to build applications on the Evolution platform.
 
 ### Why our website is on GitHub
-In treating our founders as our customers, we often think about how to build as much trust as possible with them. We believe transparency — in how we think, what we believe and why — is the first step to that trust.
+In treating our stakeholders and partners as customers, we often think about how to build as much trust as possible with them. We believe transparency — in how we think, what we believe and why — is the first step to that trust.
 
 So, a few months after we started our fund, when we were writing an [operating manual] for ourselves (covering everything from check sizes, to diligence questions, core beliefs, etc.), we realised that much of this information would be useful for all stakeholders in Dash to be able to access, especially founders/owners of startups in the crypto ecosystem looking for investment. We hope that once everything is opensourced it will save us all time to have facts out in the open, and maybe it'll help startups and company owners decide whether to work with us.
 

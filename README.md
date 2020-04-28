@@ -7,7 +7,7 @@ Dash is now the first cryptocurrency network with a proposal system capable of i
 ### Why our website is on GitHub
 In treating our founders as our customers, we often think about how to build as much trust as possible with them. We believe transparency — in how we think, what we believe and why — is the first step to that trust.
 
-So, a few months after we started our fund, when we were writing an [operating manual] for ourselves (covering everything from check sizes, to diligence questions, core beliefs, etc.), we realised that much of this information would be useful for all stakeholders in Dash to be able to access, especially founders/owners looking for investent. We hope that once everything is opensourced it will save us all time to have facts out in the open, and maybe it'll help startups and company owners decide whether to work with us.
+So, a few months after we started our fund, when we were writing an [operating manual] for ourselves (covering everything from check sizes, to diligence questions, core beliefs, etc.), we realised that much of this information would be useful for all stakeholders in Dash to be able to access, especially founders/owners of startups in the crypto ecosystem looking for investment. We hope that once everything is opensourced it will save us all time to have facts out in the open, and maybe it'll help startups and company owners decide whether to work with us.
 
 We are in the process of moving our entire web presence to GitHub to become even more transparent. Here, you can see how things have changed over time, propose improvements, or even take our ideas and make them your own (the investments are ours, though). You can also see the things you'd usually find on a venture investor's website, like [a list of our founders] and [the questions we ask ourselves when evaluating startups]. We're grateful you're taking the time to learn about us.
 
@@ -31,7 +31,7 @@ We are based all across the world and collaberate remotely.
 
 ### Questions?
 
-We thought it may be useful to have an anonymous way to ask us questions, so we're providing it for you, too. [Right here](linjk to be provided).  
+We thought it may be useful to have an anonymous way to ask us questions, so we're providing it for you, too. [Right here](link to be provided).  
 
 (If we've already answered the question in our manual, e.g., "how should I get in touch with you?" then we will respectfully ignore the question.)
 

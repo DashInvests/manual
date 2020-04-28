@@ -18,3 +18,4 @@ The Dash Investment Foundation's portfolio consists of two main types:
 
 |Founders | Company |
 |:--------|:----------|
+|N/A|N/A|

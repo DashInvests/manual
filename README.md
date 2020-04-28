@@ -6,7 +6,7 @@ Dash is now the first cryptocurrency network with a [proposal system](https://do
 
 ### How does the Dash network maintain control of this company?
 
-Dash [masternode operators](https://www.dash.org/masternodes/) elect six supervisors that oversee the foundation. Their elected term lasts 12 months, so every year the Network gets to alter the makeup of the board if it wishes to. Key organizational and operational decisions would be put to the supervisors for approval by the foundation’s directors. Day-to-day operations will remain with the directors and investment manager. The supervisors may consist of virtually anyone trusted by the network to carry out supervisory duties, while the directors would consist of experts with the appropriate skills to oversee the foundation.
+Dash [masternode operators](https://www.dash.org/masternodes/) elect six supervisors that oversee the foundation. Their elected term lasts 12 months, so every year the Dash Network gets to alter the makeup of the board if it wishes to. Key organizational and operational decisions would be put to the supervisors for approval by the foundation’s directors. Day-to-day operations will remain with the directors and investment manager. The supervisors may consist of virtually anyone trusted by the network to carry out supervisory duties, while the directors would consist of experts with the appropriate skills to oversee the foundation.
 
 ### Why our website is on GitHub
 In treating our stakeholders and partners as customers, we often think about how to build as much trust as possible with them. We believe transparency — in how we think, what we believe and why — is the first step to that trust.

@@ -6,7 +6,7 @@ Dash Investment Foundation Operating Manual
 ## Contents
 
 * [Our creed](#our-creed)
-* [Our investor, The DASH DAO Treasury](#the-dash-dao-treasury)
+* [Our investor, The DASH DAO Treasury](#our-investor-the-dash-dao-treasury)
 * [What we believe about the future of cryptocurrency](#what-we-believe-about-the-future-of-cryptocurrency)
 * [What we look for in a startup](#what-we-look-for-in-a-startup)
 * [The deal terms](#the-deal-terms)

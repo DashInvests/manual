@@ -15,6 +15,8 @@ We are in the process of moving our entire web presence to GitHub to become even
 
 ### Who we are
 
+**Elected Supervisors**
+
 Mike Lewis — [Twitter](https://twitter.com/WalterS03637956) // [LinkedIn](https://www.linkedin.com/in/michael-lewis-3156871a0/)
 
 Amanda B Johnson — [Twitter](https://twitter.com/amandab_johnson) 
@@ -26,6 +28,8 @@ Jan Heinrich Meyer — [Twitter]() // [LinkedIn](https://www.linkedin.com/in/jan
 Cole Allen — [Twitter]() // [LinkedIn]()
 
 Spencer Kuzara — [Twitter](https://twitter.com/kodaxxdev) // [LinkedIn]()
+
+**Investment Consultant**
 
 Demelza Hays — [Twitter](https://twitter.com/CryptoPhD) // [LinkedIn](https://www.linkedin.com/in/demelza-hays-7211845a/)
 

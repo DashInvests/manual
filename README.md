@@ -4,6 +4,10 @@
 The Dash Investment Foundation was incorporated on March 21st as a Cayman Islands foundation company limited by guarantee. We believe it is the world’s first ownerless and memberless investment fund. Dash Investment Foundation will be tasked with strengthening the Dash network through investment operations funded by the network itself.
 Dash is now the first cryptocurrency network with a proposal system capable of investing in its own ecosystem. No longer must all distributions from the proposal system be grants. The foundation creates a bridge between the network protocol and the legacy financial and legal systems. This opens new possibilities for entrepreneurs and the Dash network to partner and mutually benefit from the funding available through the Dash network via Dash Investment Foundation. Importantly, this capability has arrived in time to benefit developers looking to build applications on the Evolution platform.
 
+### How does the Dash network maintain control of this company?
+
+Dash masternode operators will elect six supervisors that oversee the foundation. Their elected term lasts 12 months, so every year the Network gets to alter the makeup of the board if it wishes to. Key organizational and operational decisions would be put to the supervisors for approval by the foundation’s directors. Day-to-day operations will remain with the directors and investment manager. The supervisors may consist of virtually anyone trusted by the network to carry out supervisory duties, while the directors would consist of experts with the appropriate skills to oversee the foundation.
+
 ### Why our website is on GitHub
 In treating our stakeholders and partners as customers, we often think about how to build as much trust as possible with them. We believe transparency — in how we think, what we believe and why — is the first step to that trust.
 
@@ -15,7 +19,7 @@ We are in the process of moving our entire web presence to GitHub to become even
 
 ### Who we are
 
-**Elected Supervisors**
+**Current Elected Supervisors**
 
 Mike Lewis — [Twitter](https://twitter.com/WalterS03637956) // [LinkedIn](https://www.linkedin.com/in/michael-lewis-3156871a0/)
 

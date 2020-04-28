@@ -23,11 +23,15 @@ Hytham Abdel-Karim — [Twitter](https://twitter.com/highlyunchained?s=17)
 
 Jan Heinrich Meyer — [Twitter]() // [LinkedIn](https://www.linkedin.com/in/jan-heinrich-meyer-a5a6bb108/)
 
+Cole Allen — [Twitter]() // [LinkedIn]()
+
 Spencer Kuzara — [Twitter](https://twitter.com/kodaxxdev) // [LinkedIn]()
+
+Demelza Hays — [Twitter](https://twitter.com/CryptoPhD) // [LinkedIn](https://www.linkedin.com/in/demelza-hays-7211845a/)
 
 ### Where we work
 
-We are based all across the world and collaberate remotely.
+We are a global team and collaberate remotely.
 
 ### Questions?
 

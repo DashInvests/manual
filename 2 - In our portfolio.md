@@ -1,4 +1,4 @@
-The Dash Investment Foundation's Current portfolio
+The Dash Investment Foundation's Current Portfolio
 ========
 
 Going forwards the Dash Investment Foundation's portfolio will consist of two main elements:

@@ -1,10 +1,10 @@
-The Dash Investment Foundation's Current Investments
+The Dash Investment Foundation's Current portfolio
 ========
 
-The Dash Investment Foundation's portfolio consists of two main elements:
+Going forwards the Dash Investment Foundation's portfolio will consist of two main elements:
 
-- Private Equity Investments that benefit the Dash Ecosystem
-- Investment Reserves provided by the Dash Treasury system, in order for us to invest in developing the Dash Ecosystem.
+- Investment Reserves provided by the Dash Treasury system, in order for us to invest in promising products/solutions that will drive adoption of cryptocurrency and help grow the Dash Ecosystem.
+- Private Equity Investments that we have made on behalf of the Dash Network.
 
 
 **Current Reserves status**

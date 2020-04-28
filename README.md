@@ -2,7 +2,7 @@
 
 ### Why we exist
 The Dash Investment Foundation was incorporated on March 21st as a Cayman Islands foundation company limited by guarantee. We believe it is the world’s first ownerless and memberless investment fund. Dash Investment Foundation will be tasked with strengthening the Dash network through investment operations funded by the network itself.
-Dash is now the first cryptocurrency network with a proposal system capable of investing in its own ecosystem. No longer must all distributions from the proposal system be grants. The foundation creates a bridge between the network protocol and the legacy financial and legal systems. This opens new possibilities for entrepreneurs and the Dash network to partner and mutually benefit from the funding available through the Dash network via Dash Investment Foundation. Importantly, this capability has arrived in time to benefit developers looking to build applications on the Evolution platform.
+Dash is now the first cryptocurrency network with a [proposal system](https://docs.dash.org/en/stable/governance/using.html) capable of investing in its own ecosystem. No longer must all distributions from the proposal system be grants. The foundation creates a bridge between the network protocol and the legacy financial and legal systems. This opens new possibilities for entrepreneurs and the Dash network to partner and mutually benefit from the funding available through the Dash network via Dash Investment Foundation. Importantly, this capability has arrived in time to benefit developers looking to build applications on the Evolution platform.
 
 ### How does the Dash network maintain control of this company?
 

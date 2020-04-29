@@ -20,9 +20,9 @@ We are a team who passionately believe that Dash and blockchain technology, as a
 
 ## Our investor, The DASH DAO Treasury
 
-The Dash DAO Treasury is our sole source of funds.
+The [Dash DAO Treasury] (https://docs.dash.org/en/stable/governance/understanding.html) system is our sole source of funds.
 
-The Dash DAO is a decentralized autonomous organization. This means that it is a group that functions irrespective of outside control and has no centralized form of decision making. The Dash DAO’s structure allows anyone to participate and make decisions, following a set of rules and structure.
+The [Dash DAO](https://en.wikipedia.org/wiki/Dash_(cryptocurrency)) is a decentralized autonomous organization. This means that it is a group that functions irrespective of outside control and has no centralized form of decision making. The Dash DAO’s structure allows anyone to participate and make decisions, following a set of rules and structure.
 
 The Dash DAO is governed by Masternodes, stakeholders who have invested 1,000 Dash. In addition to running the coin’s second-tier functions such as InstantSend and PrivateSend, masternodes also vote to fund proposals with Dash’s treasury. Anyone can submit a proposal to the masternodes, and the proposal may be funded if it gets enough Masternode votes.
 

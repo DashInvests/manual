@@ -24,7 +24,7 @@ The [Dash DAO Treasury](https://docs.dash.org/en/stable/governance/understanding
 
 The [Dash DAO](https://en.wikipedia.org/wiki/Dash_(cryptocurrency)) is a decentralized autonomous organization. This means that it is a group that functions irrespective of outside control and has no centralized form of decision making. The Dash DAO’s structure allows anyone to participate and make decisions, following a set of rules and structure.
 
-The Dash DAO is governed by Masternodes, stakeholders who have invested 1,000 Dash. In addition to running the coin’s second-tier functions such as InstantSend and PrivateSend, masternodes also vote to fund proposals with Dash’s treasury. Anyone can submit a proposal to the masternodes, and the proposal may be funded if it gets enough Masternode votes.
+The Dash DAO is governed by Masternodes, stakeholders who have invested 1,000 Dash. In addition to running the coin’s second-tier functions such as InstantSend and PrivateSend, masternodes also vote to fund proposals with the [Dash DAO Treasury](https://docs.dash.org/en/stable/governance/understanding.html) system. Anyone can submit a proposal to the masternodes, and the proposal may be funded if it gets enough Masternode votes.
 
 As a project of the Dash DAO, The Dash Investment Foundation is ultimately responsible to the Dash masternode network. This means our “boss” is everyone who owns some Dash and helps run the network. We have to provide value to the network, and our track record at the Dash Investment Foundation will determine our success in requesting funds for investment purposes in the future. If we do a good job and invest capital wisely, in Founders who grow the Dash ecosystem, then the Network as a whole, including every Dash holder stands to gain. 
 

@@ -69,7 +69,7 @@ We believe progress requires an accumulation of many small decisions over years,
 + We are participating in [#MovingForward](https://wearemovingforward.github.io), joining other VC’s to commit to foster a diverse, inclusive, and harassment-free workplace.
 + In future we will update the performance metrics collect on this subject and publish them here (e.g., on the gender composition of our portfolio CEOs) at least annually.
 
-We believe we need to hold ourselves accountable. As one measure, if a founder ever has an issue with our fund or our team, the founder can make a report to the independant Dash DAO Trust board which is an independant entity set up to represent the Dash network legally -- they can be contacted at trustprotectors@dash.org. We are accountable to our source of capital, and we will treat any issues raised with the consideration they deserve.
+We believe we need to hold ourselves accountable. As one measure, if a founder ever has an issue with our fund or our team, the founder can make a report to the independant Dash DAO Trust board which is an independant entity set up with a fudiciary duty to represent the Dash network;s interests in a legal capacity -- they can be contacted at trustprotectors@dash.org. We are accountable to our source of capital, and we will treat any issues raised with the consideration they deserve.
 
 We believe a community of companies is stronger the more different viewpoints come to the table, and intend to actively participate in creating a more inclusive and diverse cryptocurrency industry.
 

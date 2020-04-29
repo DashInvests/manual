@@ -75,7 +75,7 @@ We believe a community of companies is stronger the more different viewpoints co
 
 ### Product and market
 
-We prefer to see products that are intensely successful in some initial market, over products that grow to large numbers but don’t play an important role in the lives of their users. Bloomberg itself started out as a bond price list for U.S. government bonds only. We like for a product to be the most important service to at least some of its users.
+We prefer to see products that are intensely successful in some initial market, over products that grow to large numbers but don’t play an important role in the lives of their users. 
 
 We like products we ourselves would use and understand. We’ve been technology buyers, software developers, founders, entry-level employees, and of course consumers of many media -- so the range of products we might use and understand is broad. These products often start with a specific application of a well-understood technology, not a multi-industry "black box" looking for a use case.
 

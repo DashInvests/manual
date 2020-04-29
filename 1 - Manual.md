@@ -189,7 +189,7 @@ We call as many references as we can find.
 
 ### How we decide
 
-We have a consensus driven policy at the Dash Investment Foundation. Opportunities will be reviewed by the team internally but most of the ground work will usually be completed by just one or two members of the team, likely the ones most passionate about the opportunity. Our best investments might be, originally, opposed by one or more of our team so we operate a majority vote based system with a minimum quorum of 4. This may be relaxed over time as the organisation matures but at this stage of our own development we feel it's a prudent compromise. Our general view though is that teams are great at gathering information and surfacing wisdom, but terrible at making decisions. The bigger the team, the worse the decision! We believe in individual accountability -- if just one or two can say yes, then everyone feels the weight of making a decision. It's something we are aiming for..  (That said, we do require that before anyone says yes they mention the investment to the rest of us -- that way they get the benefit of the team’s input, and it’s a good way to slow down and think for a second.)
+We have a consensus driven policy at the Dash Investment Foundation. Opportunities will be reviewed by the team internally but most of the ground work will usually be completed by just one or two members of the team, likely the ones most passionate about the opportunity. Our best investments might be opposed by one or more of our team, so we operate a majority vote based system with a minimum quorum of 4. This may be relaxed over time as the organisation matures but at this stage of our own development we feel it's a prudent compromise. Our general view though is that teams are great at gathering information and surfacing wisdom, but terrible at making decisions. The bigger the team, the worse the decision! We believe in individual accountability -- if just one or two can say yes, then everyone feels the weight of making a decision. It's something we are aiming for..  (That said, we do require that before anyone says yes they mention the investment to the rest of us -- that way they get the benefit of the team’s input, and it’s a good way to slow down and think for a second.)
 
 We value each others’ opinions and seek them out. Our team is unusual in that we don’t (yet!) have any of the “partner issues” you hear about at other funds. In other funds, it can be the worst of both worlds -- founders lack clarity about how investments get approved, and in some firms the partners become resentful of one another's power to approve each others' investments and then do little to support another partners' companies.
 
@@ -197,7 +197,7 @@ We believe in each others’ talents, trust each other enough not to mind when s
 
 We have posted in public [our criteria for deciding whether to invest]https://github.com/DashInvests/manual/blob/master/3%20-%20Criteria%20for%20investing.md). When we talk about companies, we use those criteria. 
 
-In practice, here are your odds: we have invested in 0% of the companies we have spent time reviewing, so far.
+In practice, here are your odds: we have invested in 0% of the companies we have spent time reviewing, so far. Will you be the first? (metrics to be updated quarterly).
 
 ### Our deal memo
 

@@ -16,7 +16,7 @@ Dash Investment Foundation Operating Manual
 
 ## Our creed
 
-We are a team who passionately believe that Dash and blockchain technology, as a whole, will drive global economic and social change the likes of which have never been seen before. Our unique model enables us to deploy the Dash Network's capital and resources to build the Dash and blockchain ecosystem over the long term. Within the next several years, we envision blockchains and digital currencies, like Dash, will grow to have an established, responsibly managed, and regulated role in the global economy, as well as disintermediating a myriad of industries in the process.
+We are a team who passionately believe that Dash and blockchain technology, as a whole, will drive global economic and social change the likes of which have never been seen before. Our unique model enables us to focus the deployment of Dash Network's capital and resources in specific areas to help to develop and grow the Dash and blockchain ecosystem over the long term. Within the next several years, we envision blockchains and digital currencies, like Dash, will grow to have an established, responsibly managed, and regulated role in the global economy, as well as disintermediating a myriad of industries in the process. Our aim is to stimulate such growth in the ecosystem through investment in great ideas/products/solutions that will transform the world we live in.
 
 ## Our investor, The DASH DAO Treasury
 

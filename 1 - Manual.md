@@ -201,7 +201,7 @@ In practice, here are your odds: we have invested in 0% of the companies we have
 
 ### Our deal memo
 
-Before we invest, we write a brief “note to self” outlining our views. We do this so we can be as disciplined about our commitments as founders are about their commitments. We also share this note with a small advisory group at Bloomberg L.P.
+Before we invest, we write a brief “note to self” outlining our views. We do this so we can be as disciplined about our commitments as founders are about their commitments. We may also share this note with a small advisory group within the Dash DAO.
 
 In order of importance, we write about:
 * The founders’ vision
@@ -214,7 +214,7 @@ In order of importance, we write about:
 
 ### How long it takes
 
-We’ve made investment decisions in the first meeting (though usually when we already knew the founder and something about what they are working on), and we’ve had cases where we get to know the founder over a period of weeks or months and watch their business evolve (often paying a higher price as we watch the founder make progress).
+We could make investment decisions in the first meeting (though we would very likely know the founder and something about what they are working on), and we may have cases where we get to know the founder over a period of weeks or months and watch their business evolve (often paying a higher price as we watch the founder make progress!). There is no hard and fast rule about how long it could take.
 
 ### Our “Service-Level Agreement”
 
@@ -222,7 +222,7 @@ Some firms commit to giving you an answer in a certain amount of time. We commit
 
 The reason we don’t have a guideline like “3 meetings in two weeks” is because that smells like a transaction, and we’d rather be in a long-term relationship with you. We take seriously the process of getting to know a founder and a company, and having the founder truly know and like us.
 
-Many of our investments have evolved out of months or years of conversation with a founder, much of which started before Bloomberg Beta even existed. Yes, some are love at first sight -- but it’s exceedingly rare. We’re not sure which will turn out better. But would you tell someone on the first date how many times you had to date them before you decided whether to get married? It’s fundamentally unpredictable at first, but it does become clear quickly.
+Many of our investments will evolve out of months or years of conversation with a founder, much of which started before the Dash Investment Foundation even existed. Yes, it's possible for a love at first sight situation -- but it’s exceedingly unlikely. Either way, we’re not sure which will turn out better. But would you tell someone on the first date how many times you had to date them before you decided whether to get married? It’s fundamentally unpredictable at first, but it does become clear quickly.
 
 If you’re in a conversation with us, our policy is “do ask, do tell” -- we are happy to share with you our current sense of excitement and timing. You might have to make a decision, and we want you to know where we stand. If the elevator doors close while we are thinking on it, so be it.
 
@@ -234,7 +234,7 @@ We want founders to know what to expect when they work with us before they get t
 
 ### How much risk do we take
 
-Since we bet early, and expect the vast majority of our portfolio companies to fail to return much money, our winners need to be big. We fully expect that, if we succeed, one investment will return our entire fund. So we need to believe that every company could be that investment.
+Since we are looking to bet early, and expect the vast majority of our portfolio companies to fail to return much money, our winners need to be big. We fully expect that, if we succeed, one investment will return our entire fund. So we need to believe that every company could be that investment.
 
 We prefer enormous growth in modest markets to modest growth in enormous markets. We believe that tends to be a more reliable signal of a company's greatness -- it is harder to serve 100 customers exceptionally than to serve 10,000 customers poorly. 
 
@@ -292,7 +292,7 @@ Because we have potentially big funds available to us (compared to the size of o
 
 We won’t follow on in every investment, but if we are excited about putting in more money, we might want to follow on for 5x our initial investment -- or more. That said, there will also be situations where a company evolves in a way where -- even though it is still a great company -- it would benefit more from another investor’s capital than from ours, so we might not always follow on in great companies.
 
-Much like our initial investments (where we have an "anyone can say yes" [policy](https://github.com/Bloomberg-Beta/Manual/blob/master/1%20-%20Manual.md#how-we-decide)), our follow-investments are consensus-driven decisions. Therefore, we have a much more structured [process](http://tiny.cc/betafollowons), where we typically ask founders to present their latest plans to the entire team.
+Much like our initial investments (where we have an "small consensus-driven decision" [policy](https://github.com/DashInvests/manual/blob/master/1%20-%20Manual.md#how-we-decide)), our follow-investments are consensus-driven decisions also. Therefore, we have a much more structured process, where we typically ask founders to present their latest plans to the entire team at the outset.
 
 ### “Standard terms”
 
@@ -305,15 +305,10 @@ We want to protect your confidentiality and ours, and usually include a standard
 We think of our “products” as offerings of support and capital to a company, and the price we charge is ownership in a company.
 
 ### “Seed”
-Our preference is to be the first money into a company, and to contribute a meaningful amount of capital. This is the core of what we do, and it reflects roughly 90% of the dollars we invest. We want to be able to add capital, sometimes even increasing our ownership stake, as the company evolves. While we lack a specific ownership percentage target, we try to get meaningful ownership given the stage of the company -- in practice, this can be 5-15% depending on how far the company’s progressed. (It’s difficult to generalize because, in startups, exceptions are the rule. We also find that hard ownership targets can make it more difficult to form a syndicate with other investors who can be helpful.)
-
-### "Open Angels"
-We created the Open Angels program to deepen relationships with a handful of angels we trust. We back every deal our Open Angels do at a fixed ratio with their personal investment. We are not direct investors in their portfolio companies and each Angel manages their relationship with companies. Our intent is to support people we trust, and extend our fund to support many more companies, not to create direct deal flow for us. (In fact, sometimes our Open Angels might invest in companies competitive to ones in our portfolio -- since we have no visibility into details about those companies, and we're obligated to back them if our Open Angels do, we can continue to serve our portfolio companies effectively. We treat this situation the same way as if we'd invested in a venture fund that backed a startup competitive to one of ours.)
-
-Our Open Angels include [Adrienne Harris](https://angel.co/u/adrienne-harris-4), [Ivan Kirigin](https://angel.co/ivan-kirigin/syndicate/), [Amir Shevat](https://angel.co/invest-with-amir-shevat/syndicate), [Max Simkoff](https://angel.co/max-simkoff/syndicate), [Jim Greer](https://angel.co/jim-greer/syndicate), [Michael Wellman](https://angel.co/mwellman-virgilsecurity-com), [Parker Thompson](https://angel.co/pt/syndicate), [Dennis Pilarinos](https://angel.co/dennis-pilarinos-s-syndicate/syndicate), and [Edith Harbaugh](https://angel.co/edith-harbaugh-angel-fund/angel-fund).
+Our preference is to be the first money into a company, and to contribute a meaningful amount of capital. This is the core of what we do, and it will reflect roughly 90% of the dollars we invest. We want to be able to add capital, sometimes even increasing our ownership stake, as the company evolves. While we lack a specific ownership percentage target, we try to get meaningful ownership given the stage of the company -- in practice, this can be 5-15% depending on how far the company’s progressed. (It’s difficult to generalize because, in startups, exceptions are the rule. We also find that hard ownership targets can make it more difficult to form a syndicate with other investors who can be helpful.)
 
 ### "Beacon"
-We believe that there are exceptional individuals with great ideas who likely have the skills to build a company but lack the network or personal financial means to get started. So we will invest a small amount of capital -- $50K (for roughly 2% of the startup idea you pursue) -- to support very, very early-stage founders explore an idea, validate a key hypothesis, or build an early prototype. Given the low cost of building software today, these small checks are intended to help founders test new ideas cheaply while avoiding excess dilution too early. We also believe that these investments have potential to increase diversity in the founder community, an effort we support through our [Future Founders](https://www.nytimes.com/2015/07/02/upshot/the-next-mark-zuckerberg-is-not-who-you-might-think.html) program. In our experience, the very best founders know how to experiment, iterate, and we were inspired to experiment backing people as soon as we can possibly justify it. [Read more on the why, what we look for, and deal terms here.](https://medium.com/@minnkim/introducing-bloomberg-beta-beacon-52a65e5cba82)
+We believe that there are exceptional individuals with great ideas who likely have the skills to build a company but lack the network or personal financial means to get started. So we will invest a small amount of capital -- $50K (for roughly 2% of the startup idea you pursue) -- to support very, very early-stage founders explore an idea, validate a key hypothesis, or build an early prototype. Given the low cost of building software today, these small checks are intended to help founders test new ideas cheaply while avoiding excess dilution too early. We also believe that these investments have potential to increase diversity in the founder community. In our experience, the very best founders know how to experiment, iterate, and we are inspired to experiment backing people as soon as we can possibly justify it. [Read more on the why, what we look for, and deal terms here.](https://medium.com/@minnkim/introducing-bloomberg-beta-beacon-52a65e5cba82)
 
 ### “Flag”
 In some cases, we only seek to put a small amount of money to work (for example, in rounds where the founder is fortunate to have many investors who want to support the company, or it is a later-stage company), and it is unlikely we will invest more. In these cases, our support is as much symbolic as it is financial -- we want to be part of something, even though we know it is unlikely to be an investment that is meaningful to our fund financially. A typical check for these investments might be $50K. While these investments have access to all the services we offer our portfolio, given our lower ownership stake we’re less able to pay proactive attention to these companies and we want to set clear expectations up front about what kinds of startups the founder will likely consider competitive.
@@ -322,9 +317,9 @@ In some cases, we only seek to put a small amount of money to work (for example,
 
 The founders we back are our customers. We aspire to be the most useful investors per minute spent with us, and per dollar on the cap table. We want founders to want to work with us even if we weren't investors offering them money. (Though, for us to be willing to advise, we'd need the same level of conviction that we have when we're willing to invest.)
 
-We want to work with startups the way they work, not the way that big companies or traditional investors work. We prefer to take the formality out of the investor-founder relationship. Instead of requesting board seats and scheduling formulaic calls, we share with founders and encourage them to reach out to us when we can help. We've supported founders with everything from customer introductions to helping hire a critical new team member to sharing product feedback to thinking strategically about press. Consider us “on speed dial.” We try to cut waste out of the process; starting a company is hard enough. If you want regular check-ins, sure.
+We want to work with startups the way they work, not the way that big companies or traditional investors work. We prefer to take the formality out of the investor-founder relationship. Instead of requesting board seats and scheduling formulaic calls, we would share with founders and encourage them to reach out to us when we can help. We've can help founders with everything from customer introductions to helping hire a critical new team member to sharing product feedback to engaging Founders with the Dash DAO's own press team. Consider us “on speed dial.” We try to cut waste out of the process; starting a company is hard enough. If you want regular check-ins, sure.
 
-Our team works closely together -- we speak often and love helping each other, and we each know the full portfolio -- so every portfolio company has access to every member of our team. We think this is different to some other venture firms we’ve met -- we try to be a “no dysfunction” partner to you.
+Our team works closely together -- we speak often and love helping each other, and we will each know the full portfolio -- so every portfolio company has access to every member of our team. We think this is different to some other venture firms we’ve met -- we try to be a “no dysfunction” partner to you.
 
 ### Areas where we tend to be most useful
 
@@ -334,9 +329,7 @@ To us, going to market includes finding product-market fit, segmenting your mark
 
 We bridge multiple professional worlds -- technical, financial, corporate, philanthropic, political, social, and otherwise. We try to bring founders across those bridges early and often, with introductions to leaders in any of those fields and group discussions to share ideas and lessons learned that are applicable to startups.
 
-We have presence in both San Francisco and New York. We've found that SF-based founders appreciate introductions to customers in New York -- we can open that door. We make a concerted effort to help the transition from “west to east” and “east to west.”
-
-We don’t care about face time -- you won’t get a “hey let’s have coffee just to catch up” every two weeks. We do spring into action when we see the Bat Signal. We take feedback from companies on what they want. Some of our companies have asked us to do monthly, or even weekly, meetings with them, others “go into hiding” while working on their product -- we’re good either way.
+We don’t care about face time -- you won’t get a “hey let’s have coffee and a video call just to catch up” every two weeks. We do spring into action when we see the Bat Signal. We take feedback from companies on what they want. Some of our companies may want us to do monthly, or even weekly, meetings with them, others may “go into hiding” while working on their product -- we’re good either way.
 
 Because we sometimes create our own products, we stay current on tactical trends and may know them firsthand. If you're building something that we can use on our team, we'll share product feedback and be your biggest advocate. We believe founders have as much wisdom as investors (or more) -- we’re all just trying to spark something great in this big wide world.
 
@@ -346,10 +339,10 @@ One thing many founders don’t realize is how little direct control their inves
 
 It varies. In some cases most of our communication is by email and chat, others where we do a regularly-scheduled call, others where we meet in person from time to time -- it just depends on what the founder wants. At minimum, we generally like to know the number one thing we can help a company with at a given time so we can focus on that.
 
-We appreciate getting regular investment updates (e.g., a monthly email) from companies we back, since it creates a background of good understanding that helps us help you. In practice, about two-thirds of companies we back are in this habit.
+We appreciate getting regular investment updates (e.g., a monthly email) from companies we back, since it creates a background of good understanding that helps us help you.
 
 What makes a good written update for investors?
-* A summary (sentence!) that helps us understand how you're doing at trying to accomplish the most important thing for your startup right now -- usually we think in terms of [the risks you're trying to address](https://also.roybahat.com/instead-of-a-business-plan-write-a-thesis-plan-6de9de59daaf)
+* A summary (sentence!) that helps us understand how you're doing at trying to accomplish the most important thing for your startup right now -- usually we think in terms of the risks you're trying to address
 * Usually, that means the one operational metric you believe tells the story of where you are, and how that metric changed since last time you communicated it (and relative to your expectations)
 * What you’re most excited about now
 * How you’re doing financially (cash left, burn)
@@ -364,57 +357,33 @@ Even better than an update intended for investors is a passive way to keep us up
 
 What gets us going is helping companies realize their potential. We are happiest when we are “in it” with you, introducing you to customers, helping close candidates, whiteboarding a set of features, pushing back on your plan to announce your fancy new product release, or getting that late night call that you think things aren’t working out with the person you just spent six months to recruit. We feed off your enthusiasm, and hope to help you build even more of it.
 
-We intend to earn the trust of Bloomberg Beta founders. We commit to being available to you whenever you want to talk. We try to notice when it’s "a moment," and especially important to lead with empathy. We recognize that issues around the personal finances of founders are particularly important and often go undiscussed -- [something we would like to change, so we can better serve founders](https://medium.com/@roybahat/for-founders-and-investors-its-time-for-real-talk-about-money-b669ae467f92). We commit to treating founders' personal financial information, when they share it with us, with confidentiality and respect. We intend to use our knowledge to help you and your companies.
+We intend to earn the trust all the founders we wprk with. We commit to being available to you whenever you want to talk. We try to notice when it’s "a moment," and especially important to lead with empathy. We recognize that issues around the personal finances of founders are particularly important and often go undiscussed -- We commit to treating founders' personal financial information, when they share it with us, with confidentiality and respect. We intend to use our knowledge to help you and your companies.
 
 We also know startups are not all roses and sunshine, even for the best of companies. We aspire to be most helpful to you when times are tough.
 
 Investing, to us, is really nothing more than the mechanism we use to find a way to work with you. We are more comfortable talking about new product launches than about how to optimize our allocation of capital across our portfolio.
 
-### Events we host
-
-We invite founders to many events. We believe one way we can help companies is just by getting them out of the building. We get our founders together every so often with an extended group of our friends, and with each other. Once founders start to see familiar faces, they understand that we're building a community of mutual support. These events are completely optional, and sometimes have no direct usefulness at all (like our monthly game of [Werewolf](https://en.wikipedia.org/wiki/Mafia_(party_game)) in San Francisco).
-
-To bring worlds together, often we'll bring in an author, or a senior government official or business leader, or even an artist, to expose founders to ideas and people from outside the technology startup world. We invite portfolio company founders to every event, and some are only for them. When possible, we try to include the broader community in events we convene.
-
 ### Each other
 
-Now that we have a critical mass of companies in our portfolio, the companies can be helpful to each other should they want to be -- vendor referrals, emotional support, product tips, etc.
+The Dash Investment Foundation is just one Dash Funded Organisation that is part of a fast growing group of organisations under the Dash DAO umbrella, all of these organisations and companies can be helpful to each other should they want to be -- vendor referrals, emotional support, product tips, etc.
 
-We were one of the first (if not the first) fund to set up a portfolio community channel on Slack, even before Slack supported this functionality natively. Our founders congratulate each other, promote one another's successes, support each other through tough spots, offer tactical recommendations ("who should I use as an accountant?") in ways much more immediate, varied, and specific than our fund could do for any of them directly.
+It is our plan to set up a community channel on Slack, so that our Founders can reach out and tap into the greater Dash DAO family, as well as other Founders who have received investment from the Dash Investment Foundation. Our founders can congratulate each other, promote one another's successes, support each other through tough spots, offer tactical recommendations ("who should I use as an accountant?") in ways much more immediate, varied, and specific than our fund could do for any of them directly.
 
-We noticed the conversations in that channel were surprisingly specific -- less about the big picture and more about what kind of paintbrush to use. We were inspired by the Picasso quote that only art critics talk about the Big Ideas, real artists help each other find [cheap turpentine](https://www.highly.co/hl/56e6f2323533356aeb5a0000). So we created an event series, "Turpentine Talks," where one of our founders who has expertise in a certain area (e.g., growth, building open source communities, hacking personal use of time) leads a roundtable discussion with other founders learning and offering their own experiences. 
-
-We admire and want to continue to support these kinds of communities, that openly share a craft to hone the trade of companybuilding, with a particular set of companies that share a similar way of working and similar values. This kind of community is itself part of the future (and the past) of work done well.
+We have seen over the years how communities have build the Dash Network and want to continue to support these kinds of communities, that openly share a craft to hone the trade of company and organisation building, with a particular set of companies that share a similar way of working and similar values. This kind of community will itself be part of the future (and the past) of work done well.
 
 ### Learning
 
-We recognize that founders don’t have the time to plan for their own professional growth and learning, so we offer them some of that. We might do a training on how to create useful communication with technical teams, or invite founders to a panel on a subject we think they might care about. Founders can [request](https://goo.gl/forms/qS1dehJQW5vFxYYs1) Turpentine Talks on topics of particular interest to them, of course.
-
-### How our fund works with Bloomberg L.P.
-
-We look for opportunities to connect startups (including our portfolio companies and others) with Bloomberg L.P. -- we invest significant time in understanding what Bloomberg may be interested in seeing. In practice, we refer more companies to Bloomberg that are not our portfolio companies, than are portfolio companies. And at the moment only one-fourth of our portfolio companies have business contact with Bloomberg. Bloomberg Beta would never be a party to a business relationship between a startup and Bloomberg L.P.; those relationships are all at arms’ length.
-
-There are areas where access to Bloomberg may be enormously helpful to a startup. For example, some areas where Bloomberg has some of the best expertise in the world: the creation of a data-driven subscription business, selected technical specialties, high-touch customer service.
-
-That said, we are set up as a separate legal entity to protect the confidentiality of startups with whom we work.
-
-While Bloomberg will only work with your startup if it makes sense for Bloomberg (no, you can’t have a discount on a Bloomberg terminal), we understand how to facilitate the right conversation quickly.
-
-We have an Advisory Committee at Bloomberg L.P. that hears from us about common themes we see, gives us input and feedback, and approves unusually big checks -- just like the LP Advisory Committee for any venture fund.
+We recognize that founders don’t have the time to plan for their own professional growth and learning, so we offer them some of that. We might do a training on how to create useful communication with technical teams, or invite founders to a panel on a subject we think they might care about. Founders can request information on Talks on topics of particular interest to them, of course.
 
 ### After the exit...
 
 We are disciplined about learning from every company. We will write up a retrospective report where we evaluate our value added to the team -- vs. what we wish we could have added. We assess whether we were right on the risks the company faced, and what lessons we learned. Most important, we ask whether the founder would have asked for our money again.
 
-Capital that we earn will go back to Bloomberg L.P., and therefore to [Bloomberg Philanthropies](https://www.bloomberg.org/) where they focus on five key areas for creating lasting change: the arts, education, the environment, government innovation, and public health.
+Capital that we earn will be used to reinvest further in the growth of the Dash DAO & Network, by making similarly successful investments. If that capital cannot be deployed for a meaningful return in value then the Dash Investment Foundation is mandated to use excess capital to buy Dash currency from the open markets and destroy them, in much the same way as a share buyback would take place in a traditional company.
 
 ### Company feedback on us
 
-Once a year we ask all our founders to do a short anonymous survey to give us feedback on what we can do better. We calculate a Net Promoter Score as part of this. We use that NPS as the most important metric to drive our fund's choices.
-
-We would share our Net Promoter Score here, but we don’t want our founders to feel we are using their feedback to market ourselves. (Though we’d be happy to tell you in person.)
-
-Always be learning from your customers -- ours are founders.
+Once a year we will ask all our founders to do a short anonymous survey to give us feedback on what we can do better. Always be learning from your customers -- ours are founders.
 
 ## Finding us
 

@@ -61,7 +61,7 @@ We focus our proactive sourcing outreach on seeking out founders from underrepre
 We believe groupthink is dangerous in venture capital, and that different perspectives demand different backgrounds. A diverse and inclusive team also just makes for a better experience for us.
 
 We believe progress requires an accumulation of many small decisions over years, and we understand that trust takes time. That said, we commit to act now. Specifically:
-+ Our most significant effort to reach new founders is direct from the Dash community, which is about as diverse a community as could be imagined. The Dash community is one of the longest standing in Cryptocurrency and it's truly global.
++ Our most significant effort to reach new founders is direct from the Dash community, which is about as diverse a community as could be imagined. The Dash community is one of the longest standing in the Cryptocurrency sphere, and it's truly global.
 + As part of our formal criteria for picking investments we want to make, [we only invest in founders we believe are capable of creating a diverse company and an inclusive culture.](https://github.com/DashInvests/manual/blob/master/3%20-%20Criteria%20for%20investing.md#founders-and-team-2) If a startup we back fails to create a diverse and inclusive culture, we would feel regret regardless of how well the company performed financially.
 + All members of the DIF Team are active Dash community members and are usually available on community channels, social media such as  Twitter & LinkedIn, and we endeavour to engage as much as possible and we’ll happily arrange to talk with you by phone or chat if you have anything you wish to discuss with the team.
 + When invited to speak at an industry event, we ask whether there is someone from an underrepresented community speaking alongside us (e.g., on a panel).
@@ -69,7 +69,7 @@ We believe progress requires an accumulation of many small decisions over years,
 + We are participating in [#MovingForward](https://wearemovingforward.github.io), joining other VC’s to commit to foster a diverse, inclusive, and harassment-free workplace.
 + In future we will update the performance metrics collect on this subject and publish them here (e.g., on the gender composition of our portfolio CEOs) at least annually.
 
-We believe we need to hold ourselves accountable. As one measure, if a founder ever has an issue with our fund or our team, the founder can make a report to the independant Dash DAO Trust board which is an independant entity set up with a fudiciary duty to represent the Dash network;s interests in a legal capacity -- they can be contacted at trustprotectors@dash.org. We are accountable to our source of capital, and we will treat any issues raised with the consideration they deserve.
+We believe we need to hold ourselves accountable. As one measure, if a founder ever has an issue with our fund or our team, the founder can make a report to the independant Dash DAO Trust board which is an independant entity set up with a fudiciary duty to represent the Dash network's interests in a legal capacity -- they can be contacted at trustprotectors@dash.org. We are accountable to our source of capital, and we will treat any issues raised with the consideration they deserve.
 
 We believe a community of companies is stronger the more different viewpoints come to the table, and intend to actively participate in creating a more inclusive and diverse cryptocurrency industry.
 

@@ -42,13 +42,13 @@ We recognize that spotting the early signs of a world-changing idea/product/solu
 
 We look for a reason to believe a founding team is extraordinary. Not that they have the perfect skills or experiences to match the business they want to build (which is where the “team” slide in the deck tends to focus), but that they have the capacity for greatness.
 
-What gives us a sense the founders could be extraordinary? Often times, they just have an unusual psychology -- they think they are exceptional, see grand patterns others don’t, are indifferent to norms, and may have an exceptionally high pain threshold. We are inspired by Michael Dearing’s description of the cognitive distortions of founders ([pdf](http://quarry.stanford.edu/xapm1111126lse/docs/02_LSE_Cognitive.pdf), [vid](https://www.harrisonmetal.com/library/the-cognitive-distortions-of-founders)).
+What gives us a sense the founders could be extraordinary? Oftentimes, they just have an unusual psychology -- they think they are exceptional, see grand patterns others don’t, are indifferent to norms, and may have an exceptionally high pain threshold. We are inspired by Michael Dearing’s description of the cognitive distortions of founders ([pdf](http://quarry.stanford.edu/xapm1111126lse/docs/02_LSE_Cognitive.pdf), [vid](https://www.harrisonmetal.com/library/the-cognitive-distortions-of-founders)).
 
 We believe the founders destined for greatness will be magnetic to the best available talent and capital for their companies, and we find ourselves thinking we'd want to work for them (because, if we invest, we will be working for them). They see raising venture capital as a sometimes-necessary aspect of creating a certain kind of business, as opposed to a box to be checked or a badge to be won. They'd continue attacking the problem they've chosen, in some form, whether or not they raise venture capital. They hold as articles of faith that a great company will have a strong culture, and unusual practices that make it an outlier -- and begin to integrate that way of thinking sooner than strictly necessary to continue growing their business. 
 
 Great teams have a plan to win when -- surprise, surprise -- they learn that a dozen other teams are pursuing their previously-thought-to-be-unique idea. They persevere when others (including us) tell them that ideas are cheap until they are brought to life. They both see themselves as unique and list many companies as their competitors.
 
-So much of backing founders is about trust -- If we don’t know you ourselves, we prefer if someone we trust knows you. Otherwise we find it hard to trust our impressions of you after a meeting or two; first impressions are so unreliable. 
+So much a part of backing founders is about trust -- If we don’t know you ourselves, we prefer if someone we trust knows you. Otherwise we find it hard to trust our impressions of you after a meeting or two; first impressions are so unreliable. 
 
 We also do background checks on founders where we search public records. Almost everyone has something turn up, and that's fine. People get sued, things happen. Some of history's best founders had complicated pasts. The issues arise when we're surprised by something important that we learn -- trust, again -- and we resolve those issues in conversation with founders.
 
@@ -65,9 +65,9 @@ We believe progress requires an accumulation of many small decisions over years,
 + As part of our formal criteria for picking investments we want to make, [we only invest in founders we believe are capable of creating a diverse company and an inclusive culture.](https://github.com/DashInvests/manual/blob/master/3%20-%20Criteria%20for%20investing.md#founders-and-team-2) If a startup we back fails to create a diverse and inclusive culture, we would feel regret regardless of how well the company performed financially.
 + All members of the DIF Team are active Dash community members and are usually available on community channels, social media such as  Twitter & LinkedIn, and we endeavour to engage as much as possible and we’ll happily arrange to talk with you by phone or chat if you have anything you wish to discuss with the team.
 + When we host our own events, we will examine our invitation lists for diversity.
-+ In future we will update the performance metrics collect on this subject and publish them here (e.g., on the gender composition of our portfolio CEOs) at least annually.
++ In future we will update performance metrics on this subject and publish them here (e.g., on the gender composition of our portfolio CEOs) at least annually.
 
-We believe we need to hold ourselves accountable. As one measure, if a founder ever has an issue with our fund or our team, the founder can make a report to the independant Dash DAO Trust board which is a seperate entity set up with a fudiciary duty to represent the Dash network's best interests -- they can be contacted at trustprotectors@dash.org. We are accountable to our source of capital, and we will treat any issues raised with the consideration they deserve.
+We believe we need to hold ourselves accountable. As one measure, if a founder ever has an issue with our fund or our team, the founder can make a report to the independent Dash DAO Trust board which is a separate entity set up with a fiduciary duty to represent the Dash network's best interests -- they can be contacted at trustprotectors@dash.org. We are accountable to our source of capital, and we will treat any issues raised with the consideration they deserve.
 
 We believe a community of companies is stronger the more different viewpoints come to the table, and intend to actively participate in creating a more inclusive and diverse cryptocurrency industry.
 
@@ -92,7 +92,7 @@ This isn’t so much a rational investment calculation (arguably there is less c
 
 “First money in” doesn’t necessarily mean lead investor -- sometimes we may be the only investors, sometimes one of many. Sometimes the founder will set the terms, sometimes another investor will, sometimes we will. We are indifferent on this. When we're willing to invest, we're willing to set the terms; whether other investors follow depends.
 
-We are more than happy to invest in companies that might take a very long time to prove they are on to something -- our investor, the Dash DAO, has a decades-long view and is willing to build for the long-term. We do not have a fixed time horizon to expect our companies to return capital. In fact, we prefer companies who are building for permanence.
+We are more than happy to invest in companies that might take a very long time to prove they are onto something -- our investor, the Dash DAO, has a decades-long view and is willing to build for the long-term. We do not have a fixed time horizon to expect our companies to return capital. In fact, we prefer companies who are building for permanence.
 
 ### Sources
 
@@ -108,9 +108,9 @@ We keep track of companies we’ve been in touch with -- just like we’d hope t
 
 ### “Themes”
 
-Our focus is investing in startups that improve the accessibility of blockchain-based technology for the masses. We believe that cryptocurrency and blockchain applications will be as ubiquitous in the 21st Centuary as the some of the most successful technological developments of the 20th Centuary were. E.g. Television, Nuclear Power, Automobiles, Aircraft, Personal Computers, The Internet.
+Our focus is investing in startups that improve the accessibility of blockchain-based technology for the masses. We believe that cryptocurrency and blockchain applications will be as ubiquitous in the 21st Century as some of the most successful technological developments of the 20th Century were. E.g. Television, Nuclear Power, Automobiles, Aircraft, Personal Computers, The Internet.
 
-We have doubts about the effectiveness of theme-based investing. The best founders can surprise an investor with an unexpected take on a category. So we are open to all themes related to blockchain in some way. We are looking for Founders who believe they have created something utilising blockchain technology which has the potential to solve real world problems, and that customers would benefit hugely from using in their own lives/work/companies. 
+We have doubts about the effectiveness of theme-based investing. The best founders can surprise an investor with an unexpected take on a category. So we are open to all themes related to blockchain in some way. We are looking for Founders who believe they have created something utilising blockchain technology which has the potential to solve real world problems, and that customers would benefit hugely from using it in their own lives/work/companies. 
 
 ### “The Deck”
 
@@ -131,11 +131,11 @@ We do care about what metrics you intend to track -- what experiments are you ru
 
 We also ignore, in most cases, long-term financial projections -- except to the extent that they show what the “unit economics” (revenue and cost from a single user or customer) need to be for the business to work. If you fail to invent assumptions that make the overall business wildly profitable in a few years, then you probably should be doing something else for a living.
 
-That said, we do care about the short-term financial plan, especially on the choices founders directly control. How many people do you intend to hire, where will you spend the money? This helps us figure out how much time you will have before you need more capital, and how far we believe you can get in that amount of time. We prefer to see early-stage companies spending their capital on building product.
+That said, we do care about the short-term financial plan, especially on the choices founders directly control. How many people do you intend to hire, where will you spend the money? This helps us figure out how much time you will have before you need more capital, and how far we believe you can get in that amount of time. We prefer to see early-stage companies spending their capital on building products.
 
 Put another way, a five-year financial plan is mostly useless for early stage companies -- a monthly plan for the next twelve months and a quarterly plan for the next two years could be very useful. 
 
-We would love to see all of it, whether perfect or otherwise so give us anything you've already made -- financial model, deck, background materials. It helps us make sure our conversation is more dialogue than exposition.
+We would love to see all of it, whether perfect or otherwise, so give us anything you've already made -- financial model, deck, background materials. It helps us make sure our conversation is more dialogue than exposition.
 
 ### In-person meetings
 
@@ -168,9 +168,9 @@ Don't be surprised if the meetings move along quite quickly; we often will take 
 
 At any point, we’d be happy to narrate for you our level of interest -- though you might not always like what you hear. (And remember, an 80% chance of wanting to work together still means there is a 20% chance we will not want to work together.)
 
-Immediately after we meet, a frequent thing we need to do is just think on it -- if we find ourselves getting less excited a day or two later, that’s probably a bad sign. If we find ourselves returning to the conversation in our heads, wondering what you meant when you said such-and-such, and imagining how great the product will be, that’s a great sign.
+Immediately after we meet, a frequent thing we need to do is just think about it -- if we find ourselves getting less excited a day or two later, that’s probably a bad sign. If we find ourselves returning to the conversation in our heads, wondering what you meant when you said such-and-such, and imagining how great the product will be, that’s a great sign.
 
-A lot of founders wonder why investors are slow to get back to them. This is an unacceptable pattern, and yet one we’ve been guilty of from time to time. Sometimes, the reason is we’re doing work on your company (e.g., calling references, who might take a few days to get back themselves). Sometimes it’s that we’re unsure and we’re giving ourselves a few days to see if we get more excited or less as we think on it. Sometimes we just mess up and forget to reply. It’s a fail when that happens. We try to at least narrate as we go with “I know you haven’t heard from us in a few days, this is what’s happening…”
+A lot of founders wonder why investors are slow to get back to them. This is an unacceptable pattern, and yet one we’ve been guilty of from time to time. Sometimes, the reason is we’re doing work on your company (e.g., calling references, who might take a few days to get back themselves). Sometimes it’s that we’re unsure and we’re giving ourselves a few days to see if we get more excited or less as we think about it. Sometimes we just mess up and forget to reply. It’s a fail when that happens. We try to at least narrate as we go with “I know you haven’t heard from us in a few days, this is what’s happening…”
 
 We aspire to be at the extreme end of the “we communicate openly with you” scale.
 
@@ -219,7 +219,7 @@ The reason we don’t have a guideline like “3 meetings in two weeks” is bec
 
 Many of our investments will evolve out of months or years of conversation with a founder, some of which may have started before the Dash Investment Foundation even existed. Yes, it's possible for a love at first sight situation -- but it’s exceedingly unlikely. Either way, we’re not sure which will turn out better. But would you tell someone on the first date how many times you had to date them before you decided whether to get married? It’s fundamentally unpredictable at first, but it does become clear quickly.
 
-If you’re in a conversation with us, our policy is “do ask, do tell” -- we are happy to share with you our current sense of excitement and timing. You might have to make a decision, and we want you to know where we stand. If the elevator doors close while we are thinking on it, so be it.
+If you’re in a conversation with us, our policy is “do ask, do tell” -- we are happy to share with you our current sense of excitement and timing. You might have to make a decision, and we want you to know where we stand. If the elevator doors close while we are thinking about it, so be it.
 
 We intend to always give a clear “no” with straightforward reasoning. That reasoning, while straightforward, might still be subjective (“we just didn’t get excited about this and we’re not sure why”).
 
@@ -257,7 +257,7 @@ Our standard first check could be anything up to $250,000 for the right opportun
 
 In many instances we may write smaller checks because we believe in burning capital slowly until you find product-market fit.
 
-We have no minimum check size, and would write checks as low as $25,000, especially in what we call a ["flag" investment](https://github.com/DashInvests/manual/blob/master/1%20-%20Manual.md#flag).
+We have no minimum check size, and would write checks as low as $25,000, especially in what we call a "Bet on the jockey" or ["flag" investment](https://github.com/DashInvests/manual/blob/master/1%20-%20Manual.md#flag).
 
 We care about price. We avoid having a hard requirement about our ownership percentage. That said, we want to get return on our time in addition to our capital, so we generally want to be able to own a meaningful amount of a company over time. A good rule of thumb for us is that meaningful ownership means roughly 10%. We are comfortable taking the highest possible levels of risk and we believe that founders, and their investors, should be rewarded for that. (We also believe companies are successful when their teams also get generous equity grants that motivate the early team members to create something valuable.)
 
@@ -310,7 +310,7 @@ In some cases, we only seek to put a small amount of money to work (for example,
 
 The founders we back are our customers. We aspire to be the most useful investors per minute spent with us, and per dollar on the cap table. We want founders to want to work with us even if we weren't investors offering them money. (Though, for us to be willing to advise, we'd need the same level of conviction that we have when we're willing to invest.)
 
-We want to work with startups the way they work, not the way that big companies or traditional investors work. We prefer to take the formality out of the investor-founder relationship. Instead of requesting board seats and scheduling formulaic calls, we would share with founders and encourage them to reach out to us when we can help. We've can help founders with everything from customer introductions to helping hire a critical new team member to sharing product feedback to engaging Founders with the Dash DAO's own press team and broader press. Consider us “on speed dial.” We try to cut waste out of the process; starting a company is hard enough. If you want regular check-ins, sure.
+We want to work with startups the way they work, not the way that big companies or traditional investors work. We prefer to take the formality out of the investor-founder relationship. Instead of requesting board seats and scheduling formulaic calls, we would share with founders and encourage them to reach out to us when we can help. We can help founders with everything from customer introductions to helping hire a critical new team member to sharing product feedback to engaging Founders with the Dash DAO's own press team and broader press. Consider us “on speed dial.” We try to cut waste out of the process; starting a company is hard enough. If you want regular check-ins, sure.
 
 Our team works closely together -- we speak often and love helping each other, and we will each know the full portfolio -- so every portfolio company has access to every member of our team. We think this is different to some other venture firms we’ve met -- we try to be a “no dysfunction” partner to you.
 
@@ -346,7 +346,7 @@ Even better than an update intended for investors is a passive way to keep us up
 
 What gets us going is helping companies realize their potential. We are happiest when we are “in it” with you, introducing you to customers, helping close candidates, whiteboarding a set of features, pushing back on your plan to announce your fancy new product release, or getting that late night call that you think things aren’t working out with the person you just spent six months to recruit. We feed off your enthusiasm, and hope to help you build even more of it.
 
-We intend to earn the trust all the founders we work with. We commit to being available to you whenever you want to talk. We try to notice when it’s "a moment," and especially important to lead with empathy. We recognize that issues around the personal finances of founders are particularly important and often go undiscussed -- We commit to treating founders' personal financial information, when they share it with us, with confidentiality and respect. We intend to use our knowledge to help you and your companies.
+We intend to earn the trust of all the founders we work with. We commit to being available to you whenever you want to talk. We try to notice when it’s "a moment," and especially important to lead with empathy. We recognize that issues around the personal finances of founders are particularly important and often go undiscussed -- We commit to treating founders' personal financial information, when they share it with us, with confidentiality and respect. We intend to use our knowledge to help you and your companies.
 
 We also know startups are not all roses and sunshine, even for the best of companies. We aspire to be most helpful to you when times are tough.
 
@@ -354,7 +354,7 @@ Investing, to us, is really nothing more than the mechanism we use to find a way
 
 ### Each other
 
-The Dash Investment Foundation is just one Dash Funded Organisation that is part of a fast growing group of organisations under the Dash DAO umbrella, all of these organisations and companies can be helpful to each other and we foster a culture of openness and collaboration accross the whole DAO umbrella of organisations.
+The Dash Investment Foundation is just one Dash Funded Organisation that is part of a fast growing group of organisations under the Dash DAO umbrella, all of these organisations and companies can be helpful to each other and we foster a culture of openness and collaboration across the whole DAO umbrella of organisations.
 
 It is our plan to set up a community channel on Slack, so that our Founders can reach out and tap into the greater Dash DAO family, as well as other Founders who have received investment from the Dash Investment Foundation. Our founders can congratulate each other, promote one another's successes, support each other through tough spots, offer tactical recommendations ("who should I use for legal? Accounts?") in ways much more immediate, varied, and specific than our fund could do for any of them directly.
 
@@ -362,7 +362,7 @@ We have seen over the years how our strong community has helped build the Dash N
 
 ### Learning
 
-We recognize that founders don’t have the time to plan for their own professional growth and learning, so we offer them some of that. We might do a training on how to create useful communication with technical teams, or invite founders to a panel on a subject we think they might care about. Founders can request information on Talks on topics of particular interest to them, of course.
+We recognize that founders don’t have the time to plan for their own professional growth and learning, so we offer them some of that. We might do training on how to create useful communication with technical teams, or invite founders to a panel on a subject we think they might care about. Founders can request information on Talks on topics of particular interest to them, of course.
 
 ### After the exit...
 

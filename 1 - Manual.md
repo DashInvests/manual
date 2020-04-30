@@ -354,7 +354,7 @@ Investing, to us, is really nothing more than the mechanism we use to find a way
 
 ### Each other
 
-The Dash Investment Foundation is just one Dash Funded Organisation that is part of a fast growing group of organisations under the Dash DAO umbrella, all of these organisations and companies can be helpful to each other and we foster a culture of openness and collaberation accross the whole DAO umbrella of organisations.
+The Dash Investment Foundation is just one Dash Funded Organisation that is part of a fast growing group of organisations under the Dash DAO umbrella, all of these organisations and companies can be helpful to each other and we foster a culture of openness and collaboration accross the whole DAO umbrella of organisations.
 
 It is our plan to set up a community channel on Slack, so that our Founders can reach out and tap into the greater Dash DAO family, as well as other Founders who have received investment from the Dash Investment Foundation. Our founders can congratulate each other, promote one another's successes, support each other through tough spots, offer tactical recommendations ("who should I use for legal? Accounts?") in ways much more immediate, varied, and specific than our fund could do for any of them directly.
 

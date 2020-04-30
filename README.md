@@ -11,7 +11,7 @@ Dash [masternode operators](https://www.dash.org/masternodes/) elect six supervi
 ### Why our website is on GitHub
 In treating our stakeholders and partners as customers, we often think about how to build as much trust as possible with them. We believe transparency — in how we think, what we believe and why — is the first step to that trust.
 
-So, a few months after we started our fund, when we were writing an [operating manual] for ourselves (covering everything from check sizes, to diligence questions, core beliefs, etc.), we realised that much of this information would be useful for all stakeholders in Dash to be able to access, especially founders/owners of startups in the crypto ecosystem looking for investment. We hope that once everything is opensourced it will save us all time to have facts out in the open, and maybe it'll help startups and company owners decide whether to work with us.
+So, a few months after we started our fund, when we were writing an [operating manual] for ourselves (covering everything from check sizes, to diligence questions, core beliefs, etc.), we realised that much of this information would be useful for all stakeholders in Dash to be able to access, especially founders/owners of startups in the crypto ecosystem looking for investment. We hope that once everything is open source it will save us all time to have facts out in the open, and maybe it'll help startups and company owners decide whether to work with us.
 
 We are in the process of moving our entire web presence to GitHub to become even more transparent. Here, you can see how things have changed over time, propose improvements, or even take our ideas and make them your own (the investments are ours, though). You can also see the things you'd usually find on a venture investor's website, like [a list of our founders] and [the questions we ask ourselves when evaluating startups]. We're grateful you're taking the time to learn about us.
 
@@ -39,7 +39,7 @@ Demelza Hays — [Twitter](https://twitter.com/CryptoPhD) // [LinkedIn](https://
 
 ### Where we work
 
-We are a global team and collaberate remotely.
+We are a global team and collaborate remotely.
 
 ### Questions?
 

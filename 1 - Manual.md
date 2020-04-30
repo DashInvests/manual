@@ -193,8 +193,6 @@ We value each others’ opinions and seek them out. Our team is unusual in that 
 
 We believe in each others’ talents, trust each other enough not to mind when someone is wildly wrong, and enjoy each others’ views. We talk as a full group twice a week, to think out loud about companies we’ve invested in or might invest in, and we meet for a full few days once every couple of months.
 
-We have posted in public [our criteria for deciding whether to invest]https://github.com/DashInvests/manual/blob/master/3%20-%20Criteria%20for%20investing.md). When we talk about companies, we use those criteria. 
-
 
 ### Our deal memo
 

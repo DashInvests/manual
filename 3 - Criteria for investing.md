@@ -74,4 +74,4 @@ What are our criteria for selecting an investment? Investments we want to make g
 
 ##### Deal terms
 + Standard investor protections (i.e., liquidity preference at 1x, blocking right over investments that would get repaid before we do)
-+ Risk-return work for our fund size (e.g., [typical check size](link to the numbers), [stage](link to stages of invesment))
++ Risk-return work for our fund size (e.g., [typical check size](link to the numbers), [stage](link to stages of investment))

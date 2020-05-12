@@ -5,7 +5,7 @@ The Dash Investment Foundation (DIF) was incorporated on March 21st 2019 as a Ca
 
 Dash is now the first cryptocurrency network with a [proposal system](https://docs.dash.org/en/stable/governance/using.html) capable of investing in its own ecosystem, and no longer must all distributions from the this system be grants. The DIF acts as a bridge between the network protocol and legacy financial/legal systems, opening new possibilities of partnership between entrepreneurs and the Dash network. Importantly, this capability has arrived in time to benefit developers looking to build applications on the Dash Platform ("Evolution").
 
-### How does the Dash network maintain control of this company?
+### How Does the Dash Network Maintain Control of this Company?
 
 Dash [masternode operators](https://www.dash.org/masternodes/) hold annual elections for six supervisors to oversee the DIF. Key organizational and operational decisions of the DIF are put to these supervisors for approval by the DIF's managers/directors. The supervisors may consist of virtually anyone trusted by the Dash network to carry out supervisory duties, while the managers/directors consist of experts with the appropriate skills to oversee the DIF. Day-to-day operations reside with the DIF's managers/directors.
 

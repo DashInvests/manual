@@ -1,9 +1,9 @@
-Bloomberg Beta criteria for investing
+Dash Investment Foundation criteria for investing
 ========
 
-What are our criteria for selecting an investment? Investments we want to make go beyond a checklist of “box ticking” on our non-negotiable requirements (e.g., that we trust the founders). We also look for important indicators that can bias us for or against investing, too. For us to want to invest, the most important single quality: a startup needs the potential to be more than merely great, it needs a shot at the extraordinary. The good news is that to do that, we only look for at least one reason to believe, at whatever stage the company is at, that it can be an outlier...
+What are our criteria for selecting an investment? Investments we want to make go beyond a checklist of “box ticking” on our non-negotiable requirements (e.g., that we trust the founders). We also look for important indicators that can bias us for or against investing, too. For us to want to invest, the most important single quality: a startup needs the potential to be more than merely great, it needs a shot at being truly extraordinary. The good news is that to do that, we only look for at least one reason to believe, at whatever stage the company is at, that it can truly change the world...
 
-# Reasons to believe a startup is a potential outlier 
+# Reasons to believe a startup is a potential game-changer 
 *Need at least one of the below compared to other great startups at the same stage*
 ##### Founder(s) and team
 + Ever do something singular? Record of unusual achievement
@@ -12,7 +12,7 @@ What are our criteria for selecting an investment? Investments we want to make g
 + Would you work for the team?
 
 ##### Product and market
-+ Do any users love the product so much they spontaneously tell other people to use it?
++ Do any users love the product/service so much they spontaneously tell other people to use it?
 + A wow of a product experience and/or extreme early growth and engagement numbers (for products adopted by individuals)
 + Customers don't need to be sold, want to pay full-price immediately -> evangelists (for products adopted by companies)
 + Exclusive path to customers -- distribution as a competitive advantage
@@ -35,8 +35,8 @@ What are our criteria for selecting an investment? Investments we want to make g
 + If business shows early signs of success, can founders go the distance?
 
 ##### Product and market
-+ Someone else already tried -- good sign!
-+ Clear initial target market, surprisingly narrow, and high on the [gradient of influence](https://also.roybahat.com/picking-your-first-customers-the-gradient-of-influence-47858b90adfd?gi=69834aa51ef2)
++ Someone else already tried, maybe with an inferior technology -- good sign!
++ Clear initial target market
 + Clear single metric to focus on now (often engagement or satisfaction)
 + Ignoring the business fashions of the moment
 + Ability to create a #1 service in its market (e.g., network effects, customer lock-in)
@@ -46,7 +46,7 @@ What are our criteria for selecting an investment? Investments we want to make g
 
 ##### Business and economics
 + Clear sense of why to raise capital (i.e., where to deploy)
-+ Clear sense of why to raise *venture* capital (we often discourage founders from taking venture at all)
++ Clear sense of why to raise *venture* capital
 
 ##### Deal terms
 + Founders own enough of the company
@@ -63,11 +63,10 @@ What are our criteria for selecting an investment? Investments we want to make g
 + Can raise more money or get business to profitability
 + Capable of building a diverse team and an inclusive culture
 + Background check conducted, any issues discussed
-+ In Bay Area or New York (and, if not, strong reason to believe we are the best possible investor)
 
 ##### Product and market
-+ "Makes business work better," without being in financial services
-+ We have judgment to identify a winner in the relevant market (i.e., a fit with one of our [stated investment areas](http://tiny.cc/betathemes))
++ Provides a clear benefit to the Dash Network ecosystem and that of the cryptocurrency ecosystem as a whole.
++ We have judgment to identify a winner in the relevant market (i.e., a fit with one of our [stated investment areas](link to themes))
 + Unlikely to compete directly with our other portfolio companies (and verified, if in doubt, by the founder(s) in question)
 
 ##### Business and economics
@@ -75,4 +74,4 @@ What are our criteria for selecting an investment? Investments we want to make g
 
 ##### Deal terms
 + Standard investor protections (i.e., liquidity preference at 1x, blocking right over investments that would get repaid before we do)
-+ Risk-return work for our fund size (e.g., [typical check size](https://github.com/Bloomberg-Beta/Manual/blob/master/1%20-%20Manual.md#the-numbers), [stage](https://github.com/Bloomberg-Beta/Manual/blob/master/1%20-%20Manual.md#seed))
++ Risk-return work for our fund size (e.g., [typical check size](link to the numbers), [stage](link to stages of investment))

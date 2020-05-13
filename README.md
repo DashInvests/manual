@@ -1,47 +1,52 @@
 # START HERE
 
-### Why we exist
-We believe we are seeing profound changes in the way business works. Our investor, Bloomberg L.P., wants to support and understand these changes. Backing and building startups is a wonderful way to do that, so we created Bloomberg Beta. **Below is a snapshot of how we think, including a link to our previously-internal [operating manual](https://github.com/Bloomberg-Beta/Manual/blob/master/1%20-%20Manual.md) —  with many details on how we work.**
+### Why We Exist
+The Dash Investment Foundation (DIF) was incorporated on March 21st 2019 as a Cayman Islands foundation company limited by guarantee. We believe it's the world’s first ownerless and memberless investment fund. The DIF is tasked with strengthening the Dash network through investment operations funded by the network itself.
 
-Bloomberg Beta is an early-stage venture firm backed by [Bloomberg L.P.](https://www.bloomberg.com/company/), investing out of a $75M fund focused broadly on the future of work. (We are now investing out of our third fund, which is the same size and focus as the first two funds, so we now have $225M in total under management.) While we focus on general areas of interest to Bloomberg, we choose our investments independently, without preference for companies who have or want a relationship with Bloomberg. We invest for financial return. We do see Bloomberg as a template for startups — founded on a powerful idea, bringing transparency to markets, achieving global scale, with a strong and open culture that embraces technology, led by its founders for decades. To serve our founders, we seek — like the rest of Bloomberg — to bring different worlds together (business, technology, culture, the public sector, among others).
+Dash is now the first cryptocurrency network with a [proposal system](https://docs.dash.org/en/stable/governance/using.html) capable of investing in its own ecosystem, and no longer must all distributions from the this system be grants. The DIF acts as a bridge between the network protocol and legacy financial/legal systems, opening new possibilities of partnership between entrepreneurs and the Dash network. Importantly, this capability has arrived in time to benefit developers looking to build applications on the Dash Platform ("Evolution").
 
-### Why our website is on GitHub
-In treating our founders as our customers, we often think about how to build as much trust as possible with them. We believe transparency — in how we think, what we believe and why — is the first step to that trust.
+### How Does the Dash Network Maintain Control of this Company?
 
-So, a few months after we started our fund, when we were writing an [operating manual](https://github.com/Bloomberg-Beta/Manual/blob/master/1%20-%20Manual.md) for ourselves (covering everything from check sizes, to diligence questions, core beliefs, etc.), we decided to take a chance and open source it. Founders told us, again and again, how much time it saved to have facts out in the open, how it helped them decide whether to work with us. (The ones who want to skip talking to us also save a step, which is terrific. Founder time is precious.) We started seeing stars and forks, and decided to go even further.
+Dash [masternode operators](https://www.dash.org/masternodes/) hold annual elections for six supervisors to oversee the DIF. Key organizational and operational decisions of the DIF are put to these supervisors for approval by the DIF's managers/directors. The supervisors may consist of virtually anyone trusted by the Dash network to carry out supervisory duties, while the managers/directors consist of experts with the appropriate skills to oversee the DIF. Day-to-day operations reside with the DIF's managers/directors.
 
-We've moved our entire web presence to GitHub to become even more transparent. Here, you can see how things have changed over time, propose improvements, or even take our ideas and make them your own (the investments are ours, though). You can also see the things you'd usually find on a venture investor's website, like [a list of our founders](https://github.com/Bloomberg-Beta/Manual/blob/master/2%20-%20In%20our%20portfolio.md) and [the questions we ask ourselves when evaluating startups](https://github.com/Bloomberg-Beta/Manual/blob/master/3%20-%20Criteria%20for%20investing.md). We're grateful you're taking the time to learn about us.
+### Why Our Website is on GitHub
 
-**So here you are. When in doubt, as they say, read the (ahem) manual. :)**
+In treating our stakeholders and partners as customers, we often think about how to build as much trust as possible with them. We believe transparency — in how we think, what we believe, and why — is the first step to that trust.
 
-### Who we are
+When we were writing an [operating manual] for ourselves, we realised that much of this information might be useful for all stakeholders in Dash, especially founders/owners of startups in the crypto ecosystem looking for investment. We hope that once everything is open source, it will save us all time to have these facts out in the open. And ideally, it'll help startups and company owners decide whether to work with us.
 
-James Cham — [Twitter](https://twitter.com/jamescham) // [LinkedIn](https://www.linkedin.com/in/jcham)
+We are in the process of moving our entire web presence to GitHub to become even more transparent. Here, you can see how things have changed over time, propose improvements, or even take our ideas and make them your own. You can also see the things you'd usually find on a venture investor's website, like [a list of our founders] and [the questions we ask ourselves when evaluating startups].
 
-Karin Klein — [Twitter](https://twitter.com/karinklein) // [LinkedIn](https://www.linkedin.com/in/karinklein) // [Blog](https://medium.com/@Karin)
+### Who We Are
 
-Roy Bahat — [Twitter](https://twitter.com/roybahat) // [LinkedIn](https://www.linkedin.com/in/roybahat) // [Blog](http://also.roybahat.com/)
+**Current Elected Supervisors**
 
-Harley Sugarman — [Twitter](https://twitter.com/harleysugarman) // [LinkedIn](https://www.linkedin.com/in/harleysugarman/)
+Mike Lewis — [Twitter](https://twitter.com/WalterS03637956) // [LinkedIn](https://www.linkedin.com/in/michael-lewis-3156871a0/)
 
-Minn Kim — [Twitter](https://twitter.com/minney_cat) // [LinkedIn](https://www.linkedin.com/in/minnkim/)
+Amanda B. Johnson — [Twitter](https://twitter.com/amandab_johnson) 
 
-Angela Martin — [LinkedIn](https://www.linkedin.com/in/martinangela/)
+Hytham Abdel-Karim — [Twitter](https://twitter.com/highlyunchained?s=17) 
 
-Lisa Wehden — [LinkedIn](https://www.linkedin.com/in/lisa-wehden-aa111385)
+Jan Heinrich Meyer — [Twitter]() // [LinkedIn](https://www.linkedin.com/in/jan-heinrich-meyer-a5a6bb108/)
 
-Shivon Zilis — [Twitter](https://twitter.com/shivon) // [LinkedIn](https://www.linkedin.com/pub/shivon-zilis/7/b35/281)
+Cole Allen — [Twitter]() // [LinkedIn]()
 
-### Where we work
-San Francisco — [140 New Montgomery St., 22nd fl](http://goo.gl/49X6hu)
+Spencer Kuzara — [Twitter](https://twitter.com/kodaxxdev) // [LinkedIn]()
 
-New York — [731 Lexington Ave.](http://goo.gl/tt3m7f)
+**Investment Consultant**
+
+Demelza Hays — [Twitter](https://twitter.com/CryptoPhD) // [LinkedIn](https://www.linkedin.com/in/demelza-hays-7211845a/)
+
+### Where We Work
+
+We are a global team and collaborate remotely.
 
 ### Questions?
 
-Our founders requested an anonymous way to ask us questions, so we're providing it for you, too. [Right here](http://tiny.cc/AUA).  
+We thought it may be useful to have an anonymous way to ask us questions, so here it is [Right here](link to be provided).  
 
-(If we've already answered the question in our manual, e.g., "how should I get in touch with you?" then we will respectfully ignore the question.)
+(If we've already answered the question in our manual, e.g., "How can I get in touch with you?" then we will respectfully ignore the question.)
 
 ## License
+
 This manual is open sourced under a [Creative Commons license](http://creativecommons.org/licenses/by/3.0/deed.en_US).
